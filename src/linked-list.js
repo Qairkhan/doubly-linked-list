@@ -1,9 +1,9 @@
 const Node = require('./node');
 
 class LinkedList {
-    constructor() {}
+    constructor() {TextDecoderStream}
 
-    append(data) {}
+    append(data) {tttt}
 
     head() {}
 
